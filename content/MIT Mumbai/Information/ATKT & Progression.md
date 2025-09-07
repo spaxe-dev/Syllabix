@@ -16,7 +16,7 @@
 4. A leamer shall be allowed to keep term for Semester-V if he/she earns <span style="color:orange">76 or more Cumulative</span> credits from Semester-I, II, III & IV.
 5. A learner shall be allowed to keep the term for Semester VI irrespective of the number of courses of failure in Semester V.
 6. The result of Semester VI shall be withheld by the College till the learner passes all the Semesters from Semester I to Semester V.
-7. A Learner is allowed to take admission in semester VII (UG Hon. /I'G Part l) only if he passed all courses of semester I to VI (132 Credits).
+7. A Learner is allowed to take admission in semester VII (UG Hon. /PG Part l) only if he passed all courses of semester I to VI (132 Credits).
 
 ## TLDR:
 You will be admitted to Second Year only if you achieve <span style="color:orange">32 or more Credits in SEM I and SEM II.</span>
